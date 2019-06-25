@@ -1,5 +1,7 @@
 # TMVA Tutorial
 
+THESE TUTORIALS ARE NOT THE PROPERTY OF PRIVDONUT123, BUT MERELY COPIED FOR SELF REFERENCE
+
 These are tutorials on TMVA given at the IML workshop (20-22 March 2017)
 
 See  https://indico.cern.ch/event/595059
